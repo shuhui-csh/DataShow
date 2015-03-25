@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="menus">
+        <item>一、全省经济和信息化主要指标</item>
+        <item>二、分市经济和信息化主要指标</item>
+        <item>三、特色工作情况</item>
+        <item>四、重点企业情况</item>
+        <item>五、粤鲁苏浙沪及全国主要指标比较</item>
+        <item>六、历史年度数据</item>
+    </string-array>
+
+</resources>
